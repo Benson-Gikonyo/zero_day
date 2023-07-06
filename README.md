@@ -1,1 +1,1 @@
-installed vagrant -ubuntu 20.04
+Installed vagrant -ubuntu 20.04
